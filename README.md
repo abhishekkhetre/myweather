@@ -1,3 +1,3 @@
 # My Weather App
-Developed using ReactJS
-APIs: openweathermap and mapbox
+## Developed using ReactJS
+### APIs: openweathermap and mapbox
